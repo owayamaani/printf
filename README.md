@@ -118,7 +118,9 @@ adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X
 + Handle the following custom conversion specifier:<br>
     R : prints the rot13'ed string<br>
 
-
+[15* ]
+---
++ All the above options work well together.
 
 ---
 
